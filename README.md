@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ecmrnn
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me email me at marananemanuelle@gmail.com
 
 <!---
 ecmrnn/ecmrnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
